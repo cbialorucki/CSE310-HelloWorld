@@ -16,9 +16,10 @@
 
 {Describe the tools that you used to develop the software}
 
-Language(s) used: Python
+Language(s) used: 
+*Python
 
 # Useful Websites
 
-* [Introduction to Python](https://docs.microsoft.com/en-us/learn/modules/intro-to-python/)
 * [Python Official Documentation](https://www.python.org/doc/)
+* [Introduction to Python](https://docs.microsoft.com/en-us/learn/modules/intro-to-python/)
