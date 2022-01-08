@@ -14,10 +14,11 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Tools used
+* Visual Studio Code IDE
 
-Language(s) used: 
-*Python
+Language(s) used
+* Python
 
 # Useful Websites
 
