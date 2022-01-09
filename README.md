@@ -2,22 +2,16 @@
 
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This software demonstrates the syntax of very basic Python code. It was created to demonstrate proper documentation and structure in a GitHub project. The program code in this project is not particularly impressive or interesting.
 
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/T0BYNfSx8Vc)
 
 # Development Environment
 
-Tools used
+Tools Used
 * Visual Studio Code IDE
 
-Language(s) used
+Programming Language(s) Used
 * Python
 
 # Useful Websites
